@@ -1,7 +1,7 @@
 # Proyecto1
 
-Un blog increible para el [Curso de git y github]
-(https://platzi.com/cursos/git-github/"Curso de git y github") de [platzi](https://platzi.com/*platzi*)
+Un blog increible para el[ curso de Git y Github]
+(https://platzi.com/cursos/git-github/* curso de Git y Github*) de [platzi](https://platzi.com/*platzi*)
 > el curso de git y github es lo que me hacia falta
 > - niñita
 
@@ -11,5 +11,4 @@ Un blog increible para el [Curso de git y github]
 * las buenas practicas
 * y personalidades multiples de freddy
 
-y como amable memoramdum: **este readme.md es un chiste**. diseñado para el ejemplo. NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**]
-(https://platzi.com/cursos/git-github/"a ver el curso")
+y como amable memoramdum: **este readme.md es un chiste**. diseñado para el ejemplo. NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/*a ver el curso*)
